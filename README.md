@@ -7,10 +7,13 @@ Calculatrice Plus est un site gratuit d'outils de calcul en ligne, simple, rapid
 ## Nos outils
 
 - [Calculatrices de mathématiques](https://calculatriceplus.com/mathematiques-calculatrices/)
-- Calculatrice en ligne
-- Calculatrice scientifique
-- Calculatrice NumWorks
-- Autres outils de calcul gratuits
+- [Calculatrices de finance](https://calculatriceplus.com/finance-calculatrices/)
+- [Calculatrices de santé](https://calculatriceplus.com/sante-calculatrices/)
+- [Convertisseurs](https://calculatriceplus.com/convertisseurs/)
+- [Générateurs](https://calculatriceplus.com/generateurs/)
+- [Outils de texte](https://calculatriceplus.com/outils-texte/)
+- [Outils rapides](https://calculatriceplus.com/outils-rapides/)
+- [Guides](https://calculatriceplus.com/guides/)
 
 ## À propos
 
